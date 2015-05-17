@@ -1,0 +1,12 @@
+F:\Workspaces\Personal Projects\SpaceGame\SpaceGame\bin\Debug\SpaceGame.exe.config
+F:\Workspaces\Personal Projects\SpaceGame\SpaceGame\obj\Debug\SpaceGame.csprojResolveAssemblyReference.cache
+F:\Workspaces\Personal Projects\SpaceGame\SpaceGame\obj\Debug\SpaceGame.Icons.StarShipIcon.resources
+F:\Workspaces\Personal Projects\SpaceGame\SpaceGame\obj\Debug\SpaceGame.MainForm.resources
+F:\Workspaces\Personal Projects\SpaceGame\SpaceGame\obj\Debug\SpaceGame.Properties.Resources.resources
+F:\Workspaces\Personal Projects\SpaceGame\SpaceGame\obj\Debug\SpaceGame.csproj.GenerateResource.Cache
+F:\Workspaces\Personal Projects\SpaceGame\SpaceGame\bin\Debug\SpaceGame.exe
+F:\Workspaces\Personal Projects\SpaceGame\SpaceGame\bin\Debug\SpaceGame.pdb
+F:\Workspaces\Personal Projects\SpaceGame\SpaceGame\obj\Debug\SpaceGame.exe
+F:\Workspaces\Personal Projects\SpaceGame\SpaceGame\obj\Debug\SpaceGame.pdb
+F:\Workspaces\Personal Projects\SpaceGame\SpaceGame\obj\Debug\SpaceGame.Icons.ProjectileIcon.resources
+F:\Workspaces\Personal Projects\SpaceGame\SpaceGame\obj\Debug\SpaceGame.Icons.AsteroidIcon.resources
